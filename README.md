@@ -1,0 +1,2 @@
+ 
+ En esta practica creamos un formulario donde podemos añadir un usuario, rellenado con el nombre del usuario, telefono y correo las casillas correspondientes. Ha sido desarrolada con angular material
